@@ -55,10 +55,7 @@ int main(void)
 }
 
 
-```
 
-# Copyright
-Copyright (c) 2022 Abel Yitages Amdebirhan Abebe
 
 
 
